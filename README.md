@@ -5,11 +5,11 @@ Project consists of a one person. Black Jack game done in Python from scratch, w
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Languages Used</h2>
 
 - <b>Python</b> 
 
-<h2>Environments Used </h2>
+<h2>Packages Used </h2>
 
 - <b>Mac OSX </b> 
 
