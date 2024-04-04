@@ -11,7 +11,7 @@ Project consists of a one person. Black Jack game done in Python from scratch, w
 
 <h2>Packages Used </h2>
 
-- <b>Mac OSX </b> 
+- <b>random </b> 
 
 <h2>Program walk-through:</h2>
 
